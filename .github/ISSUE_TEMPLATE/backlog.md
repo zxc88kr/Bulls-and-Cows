@@ -2,7 +2,7 @@
 name: Backlog
 about: Describe this issue template's purpose here.
 title: ''
-labels: ''
+labels: 'Priority: Medium, Status : Available, Type: Enhencement'
 assignees: ''
 
 ---
